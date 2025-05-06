@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Ola\Documents\project\cosmesticClinic\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Core_APP\form_category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\form_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\form_sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\form_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\form_stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\form_transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core_APP\terminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

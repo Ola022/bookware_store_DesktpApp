@@ -1,0 +1,201 @@
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\cosmesticClinic.exe
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\cosmesticClinic.deps.json
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.csproj.AssemblyReference.cache
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.Appointments.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.Form1.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.csproj.GenerateResource.cache
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfoInputs.cache
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfo.cs
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.genruntimeconfig.cache
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.Billing.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.patientRegistration.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.patientSerach.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.report.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CopyComplete
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.Properties.Resources.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.printInvoice.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.Doctors.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.New_Treatment.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\obj\Debug\net6.0-windows\cosmesticClinic.login.resources
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Documents\project\cosmesticClinic\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\cosmesticClinic.exe
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\cosmesticClinic.deps.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Appointments.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Billing.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_category.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_staff.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_stock.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Doctors.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Form1.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Form2.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Login.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.New_Treatment.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.patientRegistration.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.patientSerach.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.printInvoice.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.Properties.Resources.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.csproj.GenerateResource.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfoInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfo.cs
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CopyComplete
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys\obj\Debug\net6.0-windows\cosmesticClinic.genruntimeconfig.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\cosmesticClinic.exe
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\cosmesticClinic.deps.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.csproj.AssemblyReference.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Appointments.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Billing.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_category.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_staff.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_stock.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Doctors.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Form1.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Form2.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Login.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.New_Treatment.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.patientRegistration.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.patientSerach.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.printInvoice.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Properties.Resources.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.csproj.GenerateResource.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfoInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfo.cs
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CopyComplete
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.genruntimeconfig.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_transaction.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_sys - Copy\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.terminal.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.exe
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.deps.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.AssemblyReference.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Appointments.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Billing.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_category.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_staff.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_stock.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_transaction.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.terminal.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Doctors.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Form1.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Form2.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Login.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.New_Treatment.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.patientRegistration.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.patientSerach.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.printInvoice.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Properties.Resources.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.report.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.GenerateResource.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfoInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfo.cs
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CopyComplete
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.genruntimeconfig.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.exe
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.deps.json
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Office.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.AssemblyReference.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_category.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_report.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_staff.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_stock.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_transaction.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.terminal.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Form2.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Login.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Properties.Resources.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.GenerateResource.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfoInputs.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.AssemblyInfo.cs
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CoreCompileInputs.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.csproj.CopyComplete
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\ref\cosmesticClinic.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.pdb
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.genruntimeconfig.cache
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_sales.resources
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Ola\Documents\project\dd\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll

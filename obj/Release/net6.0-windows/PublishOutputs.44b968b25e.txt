@@ -1,0 +1,9 @@
+C:\Users\Ola\Desktop\cosmetic app\cosmesticClinic.exe
+C:\Users\Ola\Desktop\cosmetic app\cosmesticClinic.dll
+C:\Users\Ola\Desktop\cosmetic app\cosmesticClinic.deps.json
+C:\Users\Ola\Desktop\cosmetic app\cosmesticClinic.runtimeconfig.json
+C:\Users\Ola\Desktop\cosmetic app\cosmesticClinic.pdb
+C:\Users\Ola\Desktop\cosmetic app\Office.dll
+C:\Users\Ola\Desktop\cosmetic app\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ola\Desktop\cosmetic app\System.Data.OleDb.dll
+C:\Users\Ola\Desktop\cosmetic app\runtimes\win\lib\net6.0\System.Data.OleDb.dll
