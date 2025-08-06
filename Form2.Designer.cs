@@ -43,16 +43,19 @@
             this.panel7 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.dataGridViewLowStock = new System.Windows.Forms.DataGridView();
             this.panDgv = new System.Windows.Forms.Panel();
             this.lblClinicName = new System.Windows.Forms.Label();
-            this.dataGridView3 = new System.Windows.Forms.DataGridView();
+            this.dataGridRecentSales = new System.Windows.Forms.DataGridView();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.lblTodaySales = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.lblTotalUsers = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.lblTotalProducts = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btn_logout = new System.Windows.Forms.Button();
             this.btn_open_ternimal = new System.Windows.Forms.Button();
@@ -62,9 +65,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panelDesktop.SuspendLayout();
             this.panel6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewLowStock)).BeginInit();
             this.panDgv.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridRecentSales)).BeginInit();
             this.panel4.SuspendLayout();
             this.panel5.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -310,10 +313,10 @@
             this.panel6.AutoScroll = true;
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel6.Controls.Add(this.label1);
-            this.panel6.Controls.Add(this.dataGridView2);
-            this.panel6.Location = new System.Drawing.Point(86, 304);
+            this.panel6.Controls.Add(this.dataGridViewLowStock);
+            this.panel6.Location = new System.Drawing.Point(98, 355);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(356, 354);
+            this.panel6.Size = new System.Drawing.Size(366, 303);
             this.panel6.TabIndex = 68;
             // 
             // label1
@@ -322,26 +325,27 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(129, 4);
+            this.label1.ForeColor = System.Drawing.Color.Crimson;
+            this.label1.Location = new System.Drawing.Point(87, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(93, 21);
+            this.label1.Size = new System.Drawing.Size(187, 21);
             this.label1.TabIndex = 67;
-            this.label1.Text = "Stock Alert";
+            this.label1.Text = "🔔 Low Stock Products ";
             // 
-            // dataGridView2
+            // dataGridViewLowStock
             // 
-            this.dataGridView2.AllowUserToAddRows = false;
-            this.dataGridView2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.dataGridViewLowStock.AllowUserToAddRows = false;
+            this.dataGridViewLowStock.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView2.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView2.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(2, 28);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowTemplate.Height = 25;
-            this.dataGridView2.Size = new System.Drawing.Size(346, 324);
-            this.dataGridView2.TabIndex = 0;
+            this.dataGridViewLowStock.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridViewLowStock.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
+            this.dataGridViewLowStock.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewLowStock.Location = new System.Drawing.Point(18, 60);
+            this.dataGridViewLowStock.Name = "dataGridViewLowStock";
+            this.dataGridViewLowStock.RowTemplate.Height = 25;
+            this.dataGridViewLowStock.Size = new System.Drawing.Size(326, 228);
+            this.dataGridViewLowStock.TabIndex = 0;
             // 
             // panDgv
             // 
@@ -352,10 +356,10 @@
             this.panDgv.AutoScroll = true;
             this.panDgv.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panDgv.Controls.Add(this.lblClinicName);
-            this.panDgv.Controls.Add(this.dataGridView3);
-            this.panDgv.Location = new System.Drawing.Point(477, 304);
+            this.panDgv.Controls.Add(this.dataGridRecentSales);
+            this.panDgv.Location = new System.Drawing.Point(499, 355);
             this.panDgv.Name = "panDgv";
-            this.panDgv.Size = new System.Drawing.Size(742, 354);
+            this.panDgv.Size = new System.Drawing.Size(672, 303);
             this.panDgv.TabIndex = 8;
             // 
             // lblClinicName
@@ -364,90 +368,138 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblClinicName.AutoSize = true;
             this.lblClinicName.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblClinicName.Location = new System.Drawing.Point(303, 2);
+            this.lblClinicName.Location = new System.Drawing.Point(273, 19);
             this.lblClinicName.Name = "lblClinicName";
-            this.lblClinicName.Size = new System.Drawing.Size(154, 21);
+            this.lblClinicName.Size = new System.Drawing.Size(244, 21);
             this.lblClinicName.TabIndex = 67;
-            this.lblClinicName.Text = "Recent Transaction";
+            this.lblClinicName.Text = "📅 Recent Transaction History ";
             // 
-            // dataGridView3
+            // dataGridRecentSales
             // 
-            this.dataGridView3.AllowUserToAddRows = false;
-            this.dataGridView3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.dataGridRecentSales.AllowUserToAddRows = false;
+            this.dataGridRecentSales.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView3.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dataGridView3.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
-            this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView3.Location = new System.Drawing.Point(1, 28);
-            this.dataGridView3.Name = "dataGridView3";
-            this.dataGridView3.RowTemplate.Height = 25;
-            this.dataGridView3.Size = new System.Drawing.Size(737, 324);
-            this.dataGridView3.TabIndex = 0;
+            this.dataGridRecentSales.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dataGridRecentSales.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
+            this.dataGridRecentSales.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridRecentSales.Location = new System.Drawing.Point(42, 60);
+            this.dataGridRecentSales.Name = "dataGridRecentSales";
+            this.dataGridRecentSales.RowTemplate.Height = 25;
+            this.dataGridRecentSales.Size = new System.Drawing.Size(599, 216);
+            this.dataGridRecentSales.TabIndex = 0;
             // 
             // panel4
             // 
             this.panel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel4.Controls.Add(this.label3);
-            this.panel4.Location = new System.Drawing.Point(477, 135);
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel4.Controls.Add(this.label6);
+            this.panel4.Controls.Add(this.lblTodaySales);
+            this.panel4.Location = new System.Drawing.Point(499, 167);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(356, 142);
+            this.panel4.Size = new System.Drawing.Size(307, 142);
             this.panel4.TabIndex = 5;
             // 
-            // label3
+            // label6
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.Indigo;
-            this.label3.Location = new System.Drawing.Point(147, 50);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 41);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "00";
+            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label6.ForeColor = System.Drawing.Color.DarkOrchid;
+            this.label6.Location = new System.Drawing.Point(113, 26);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(110, 21);
+            this.label6.TabIndex = 69;
+            this.label6.Text = "Today\'s Sales";
+            // 
+            // lblTodaySales
+            // 
+            this.lblTodaySales.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTodaySales.AutoSize = true;
+            this.lblTodaySales.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblTodaySales.ForeColor = System.Drawing.Color.DarkOrchid;
+            this.lblTodaySales.Location = new System.Drawing.Point(138, 50);
+            this.lblTodaySales.Name = "lblTodaySales";
+            this.lblTodaySales.Size = new System.Drawing.Size(60, 41);
+            this.lblTodaySales.TabIndex = 2;
+            this.lblTodaySales.Text = "00";
             // 
             // panel5
             // 
             this.panel5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel5.Controls.Add(this.label4);
-            this.panel5.Location = new System.Drawing.Point(863, 135);
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel5.Controls.Add(this.label7);
+            this.panel5.Controls.Add(this.lblTotalUsers);
+            this.panel5.Location = new System.Drawing.Point(832, 167);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(356, 142);
+            this.panel5.Size = new System.Drawing.Size(335, 142);
             this.panel5.TabIndex = 4;
             // 
-            // label4
+            // label7
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label4.ForeColor = System.Drawing.Color.Indigo;
-            this.label4.Location = new System.Drawing.Point(147, 50);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(60, 41);
-            this.label4.TabIndex = 2;
-            this.label4.Text = "00";
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label7.ForeColor = System.Drawing.Color.DarkGreen;
+            this.label7.Location = new System.Drawing.Point(131, 26);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(93, 21);
+            this.label7.TabIndex = 69;
+            this.label7.Text = "Total Users";
+            // 
+            // lblTotalUsers
+            // 
+            this.lblTotalUsers.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTotalUsers.AutoSize = true;
+            this.lblTotalUsers.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblTotalUsers.ForeColor = System.Drawing.Color.DarkGreen;
+            this.lblTotalUsers.Location = new System.Drawing.Point(147, 50);
+            this.lblTotalUsers.Name = "lblTotalUsers";
+            this.lblTotalUsers.Size = new System.Drawing.Size(60, 41);
+            this.lblTotalUsers.TabIndex = 2;
+            this.lblTotalUsers.Text = "00";
             // 
             // panel3
             // 
-            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel3.Controls.Add(this.label2);
-            this.panel3.Location = new System.Drawing.Point(86, 135);
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel3.Controls.Add(this.label5);
+            this.panel3.Controls.Add(this.lblTotalProducts);
+            this.panel3.Location = new System.Drawing.Point(98, 167);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(356, 142);
+            this.panel3.Size = new System.Drawing.Size(366, 142);
             this.panel3.TabIndex = 2;
             // 
-            // label2
+            // label5
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.ForeColor = System.Drawing.Color.Indigo;
-            this.label2.Location = new System.Drawing.Point(130, 42);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(60, 41);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "00";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label5.ForeColor = System.Drawing.Color.Navy;
+            this.label5.Location = new System.Drawing.Point(101, 26);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(119, 21);
+            this.label5.TabIndex = 68;
+            this.label5.Text = "Total Products";
+            // 
+            // lblTotalProducts
+            // 
+            this.lblTotalProducts.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTotalProducts.AutoSize = true;
+            this.lblTotalProducts.Font = new System.Drawing.Font("Bodoni Bd BT", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblTotalProducts.ForeColor = System.Drawing.Color.Navy;
+            this.lblTotalProducts.Location = new System.Drawing.Point(130, 50);
+            this.lblTotalProducts.Name = "lblTotalProducts";
+            this.lblTotalProducts.Size = new System.Drawing.Size(60, 41);
+            this.lblTotalProducts.TabIndex = 1;
+            this.lblTotalProducts.Text = "00";
+            this.lblTotalProducts.Click += new System.EventHandler(this.label2_Click);
             // 
             // panel1
             // 
@@ -524,10 +576,10 @@
             this.panelDesktop.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewLowStock)).EndInit();
             this.panDgv.ResumeLayout(false);
             this.panDgv.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridRecentSales)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             this.panel5.ResumeLayout(false);
@@ -558,18 +610,21 @@
         private Panel panel4;
         private Panel panel6;
         private Label label1;
-        private DataGridView dataGridView2;
+        private DataGridView dataGridViewLowStock;
         private Panel panDgv;
         private Label lblClinicName;
-        private DataGridView dataGridView3;
+        private DataGridView dataGridRecentSales;
         private Label lblPanelName;
-        private Label label2;
-        private Label label3;
-        private Label label4;
+        private Label lblTotalProducts;
+        private Label lblTodaySales;
+        private Label lblTotalUsers;
         private Panel panel7;
         private Button btn_open_ternimal;
         private Button btn_logout;
         private Button button1;
         private Button btn_report;
+        private Label label6;
+        private Label label7;
+        private Label label5;
     }
 }
