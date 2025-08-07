@@ -680,21 +680,32 @@ namespace cosmesticClinic.Core_APP
                 reportConnect.Open();
                 string time = DateTime.Now.ToString("hh: mm :ss tt");
                 string date = DateTime.Now.ToString("yyyy-MM-dd");
-            string action = "Make Transaction";
-            //string menu = "transaction";
-           
-            string details = "INSERT INTO tbl_report(staff_name, staff_id, action_perform, date_created, time_created, invoice_number, total_amt_purchased, total_qty_purchased)" +
-                "VALUES('" + lbl_fullname.Text + "'," + user_id + ",'" + action + "','" + date + "','" + time + "','" +
-                lbl_invoiceNum.Text + "','" + lbl_totalPrice.Text + "','" + lbl_totalQty.Text + "')";
-         
-            com = new OleDbCommand(details, reportConnect);
-            dr = com.ExecuteReader();
-            reportConnect.Close();
-            dr.Close(); 
-                MessageBox.Show("Operation Sucess", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                resetAll();
+                string action = "Make Transaction";
+                string invoice = salesInvoice;
+                //string menu = "transaction";
 
-        }
+                string details = "INSERT INTO tbl_report(staff_name, staff_id, action_perform, date_created, time_created, invoice_number, total_amt_purchased, total_qty_purchased)" +
+                    "VALUES('" + lbl_fullname.Text + "'," + user_id + ",'" + action + "','" + date + "','" + time + "','" +
+                    lbl_invoiceNum.Text + "','" + lbl_totalPrice.Text + "','" + lbl_totalQty.Text + "')";
+
+                com = new OleDbCommand(details, reportConnect);
+                dr = com.ExecuteReader();
+                reportConnect.Close();
+                dr.Close();
+                if (invoice != null)
+                {
+                    invoice printInvoice = new invoice(invoice);
+                    printInvoice.ShowDialog();
+
+                    MessageBox.Show("Operation Sucess", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+                //if (printInvoice.ShowDialog() == DialogResult.)
+                //{
+                resetAll();
+                //}
+
+            }
             catch (Exception ex)
             {
                 MessageBox.Show("Invalid Argument, transaction report", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);

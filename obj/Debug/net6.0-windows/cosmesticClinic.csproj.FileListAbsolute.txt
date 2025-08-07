@@ -215,3 +215,4 @@ C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-window
 C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
 C:\Users\Ola\Documents\project\Bookware_Inventory_system\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.Core_APP.form_sales.resources
+C:\Users\Ola\Documents\project\Bookware_Inventory_system\obj\Debug\net6.0-windows\cosmesticClinic.invoice.resources
